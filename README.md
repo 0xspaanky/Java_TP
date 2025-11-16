@@ -44,3 +44,8 @@ Dans le dossier du TP, on trouve :
 
    ```bash
    javac Test.java
+
+
+## Resultat du programme
+
+<img width="774" height="644" alt="Screenshot 2025-11-16 113815" src="https://github.com/user-attachments/assets/87af5604-3938-43c3-98fd-f3314f6e041c" />
